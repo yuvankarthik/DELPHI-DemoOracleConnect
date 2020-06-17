@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/10 11:48:03.000.162,=C:\Users\karthik.AGILELABS\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/01/07 11:07:50.000.310,=C:\Users\karthik.AGILELABS\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/06/17 17:45:21.317,=C:\Users\karthik.AGILELABS\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/06/17 17:50:12.845,G:\Projects\Sample\DBX - ORACLE Connection\uMain.dfm=C:\Users\karthik.AGILELABS\Documents\RAD Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2020/06/17 17:50:12.845,G:\Projects\Sample\DBX - ORACLE Connection\uMain.pas=C:\Users\karthik.AGILELABS\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/06/17 17:50:23.139,G:\Projects\Sample\DBX - ORACLE Connection\SampleOracleDBConn.dproj=C:\Users\karthik.AGILELABS\Documents\RAD Studio\Projects\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
